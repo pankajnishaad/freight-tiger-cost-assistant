@@ -1,0 +1,4 @@
+Three runs produced byte-identical CSV outputs.
+run_1.csv: 00cfda253488747c32329045848515dcf94a0f537b6ba613fe6151d7cfbdefb9
+run_2.csv: 00cfda253488747c32329045848515dcf94a0f537b6ba613fe6151d7cfbdefb9
+run_3.csv: 00cfda253488747c32329045848515dcf94a0f537b6ba613fe6151d7cfbdefb9
